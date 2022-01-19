@@ -46,7 +46,7 @@ Simplify as we can for the user, setting priorities is the most important.
 * Meals page.
 * Daily promotionals/specials page.
 * Payment page (there is an address entry | use google map to find out the address).
-* order confirmation page.
+* Order confirmation page.
 * Cart Page.
 * Dashboard page (for Restaurant management).
 
