@@ -36,7 +36,9 @@ Simplify as we can for the user, setting priorities is the most important.
 - Study competitors, see user reviews and complaints.
 - Website design on figma or adobe xd  with an attempt to adhere to the ux rules.
 - split the project for a small tasks,define the priorities distribute work.
-- Ensure that all team members are on the same application idea
+- Ensure that all team members are on the same application idea.
+- Determine which programming languages will be used.
+
 
 --------------------------
 
